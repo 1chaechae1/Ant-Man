@@ -1,0 +1,11 @@
+print('hi',end=" ")
+print('hello')
+
+print(type(3.14))
+print(type(1024))
+print(type(1e-2))
+print(type('aaa'))
+print(type(True))
+print(3<7)
+print("Hi python"*2)
+print(len("Hi Hi"))
